@@ -386,7 +386,7 @@ p {
 	display: block;
 }
 
-header i {
+..mobile-nav i {
 	position: absolute;
 	top: 25px;
 	right: 25px;
@@ -650,7 +650,7 @@ article.box {
 	.nav-bar {
 		display: none;
 	}
-	header i {
+	.mobile-nav i {
 		visibility: visible;
 	}
 
