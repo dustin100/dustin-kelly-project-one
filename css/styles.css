@@ -386,7 +386,7 @@ p {
 	display: block;
 }
 
-..mobile-nav i {
+.mobile-nav i {
 	position: absolute;
 	top: 25px;
 	right: 25px;
